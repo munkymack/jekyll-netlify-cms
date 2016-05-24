@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Jabberwocky
-categories: Poetry
-cmsUserSlug: welcome-to-jekyll
+categories: blog
+cmsUserSlug: the-jabberwocky
 date: 2015-08-26T19:55:04.000Z
 ---
 
